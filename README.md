@@ -17,10 +17,10 @@ Hi 👋 I'm Vasyl
 
 🧠 Personal Strengths
 
-🗣️ Communication skills
-📚 Fast learner
-♟️ Strategic thinking
-👑 Leadership
+- 🗣️ Communication skills
+- 📚 Fast learner
+- ♟️ Strategic thinking
+- 👑 Leadership
 
 ---
 
