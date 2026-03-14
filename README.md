@@ -1,16 +1,60 @@
-## Hi there 👋
+Hi 👋 I'm Vasyl Melnytskyi
 
-<!--
-**whether-report/whether-report** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+🌍 Based in Poland
+💻 Interested in software development and technology
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+- 🎓 1st-year Computer Science student @ Collegium Da Vinci
+- 🤔 Currently exploring different areas of programming
+- 💡 Interested in building useful software and learning new technologies
+- 🧠 Strong strategic thinking and problem-solving skills
+
+---
+
+🛠️ Skills
+
+- Python
+- C++
+- Linux
+- SQL
+
+---
+
+🌱 Personal Strengths
+
+- Communication skills
+- Ability to learn quickly
+- Strategic thinking
+- Leadership
+
+---
+
+📫 Contact Me
+
+📧 Email: melnytskyi.vi@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/vasyl-melnytskyi-ba1169388
+
+🐙 GitHub:
+https://github.com/whether-report
+
+---
+
+📊 GitHub Stats
+
+"GitHub stats" (https://github-readme-stats.vercel.app/api?username=whether-report&show_icons=true&theme=tokyonight)
+
+"Top Langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=whether-report&layout=compact&theme=tokyonight)
+
+---
+
+💬 Favorite Quote
+“Programs must be written for people to read, and only incidentally for machines to execute.”
+— Harold Abelson
+«“Programs must be written for people to read, and only incidentally for machines to execute.”
+— Harold Abelson»
