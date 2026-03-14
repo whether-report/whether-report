@@ -1,14 +1,9 @@
 Hi 👋 I'm Vasyl
-
-🎓 Computer Science Student
-🌍 Based in Poland
-💻 Interested in software development and technology
-
 ---
 
 🚀 About Me
 
-- 🎓 1st-year Computer Science student @ Collegium Da Vinci
+- 🎓 1st-year Computer Science student @ Collegium Da Vinci, Poland
 - 🤔 Currently exploring different areas of programming
 - 💡 Interested in building useful software and learning new technologies
 - 🧠 Strong strategic thinking and problem-solving skills
