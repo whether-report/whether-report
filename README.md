@@ -19,6 +19,17 @@
 
 ---
 
+## 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html" height="50" title="HTML"/>
+<img src="https://skillicons.dev/icons?i=css" height="50" title="CSS"/>
+<img src="https://skillicons.dev/icons?i=js" height="50" title="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=react" height="50" title="React"/>
+<img src="https://skillicons.dev/icons?i=git" height="50" title="Git"/>
+
+</p>
 
 
 
