@@ -48,7 +48,7 @@
 <!-- Email -->
 
 <a href="mailto:melnytskyi.vi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-@melnytskyi.vi- D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-@melnytskyi.vi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <!-- LinkedIn -->
