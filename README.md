@@ -32,10 +32,10 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-Basic-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-Basic-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-Basic-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python" height="50" title="Python - Basic"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="50" title="C++ - Basic"/>
+<img src="https://skillicons.dev/icons?i=linux" height="50" title="Linux - Basic"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50" title="SQL - Basic"/>
 
 </p>
 
