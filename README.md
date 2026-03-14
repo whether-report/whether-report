@@ -1,4 +1,10 @@
-## 👋 Hi, I'm Vasyl
+<h1 align="center">Hi 👋 I'm Vasyl Melnytskyi</h1><p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Beginning+my+journey+in+IT;Exploring+my+niche+to+create+solutions+for+people;Always+learning+and+open+for+collaboration&center=true&width=600&height=50&duration=3000">
+</p><p align="center">
+💡 At the beginning of my journey in IT, I’m exploring my niche to create solutions that help people.  
+🤝 Open to learning, collaborating, and building meaningful projects together!
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -31,13 +37,7 @@
 
 </p>
 
-
-
-
-
-
-
-
+---
 
 ## 🧰 Tech Stack
 
@@ -49,7 +49,6 @@
 <img src="https://img.shields.io/badge/SQL-Basic-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
-
 
 ---
 
