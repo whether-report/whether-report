@@ -1,12 +1,52 @@
-<h1 align="center">Hi 👋 I'm Vasyl Melnytskyi</h1>
+Hi 👋 I'm Vasyl
+
+🎓 Computer Science Student
+🌍 Based in Poland
+💻 Interested in software development and technology
+
+---
+
+🚀 About Me
+
+- 🎓 1st-year Computer Science student @ Collegium Da Vinci
+- 🤔 Currently exploring different areas of programming
+- 💡 Interested in building useful software and learning new technologies
+- 🧠 Strong strategic thinking and problem-solving skills
+
+---
+
+🧠 Personal Strengths
+
+🗣️ Communication skills
+📚 Fast learner
+♟️ Strategic thinking
+👑 Leadership
+
+---
+
+
+
+
+
+
+
+
+
+
+🧰 Tech Stack
 
 <p align="center">
-Computer Science Student • Future Software Developer
+
+<img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-Basic-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Basic-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-Basic-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🌐 Connect with me
+🌐 Connect with me
 
 <p align="center">
 <a href="mailto:melnytskyi.vi@gmail.com">
@@ -23,34 +63,14 @@ Computer Science Student • Future Software Developer
 </p>
 
 ---
-
-## 💻 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
-<img src="https://skillicons.dev/icons?i=linux" height="50"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-
-</p>
-
----
-
-## 🧠 Personal Strengths
-
-* Communication
-* Ability to learn quickly
-* Strategic thinking
-* Leadership
-
----
-
 ## 💬 Favorite Quote
 
 <p align="center">
 
-> “Talk is cheap. Show me the code.”
-> — Linus Torvalds
+> “Programs must be written for people to read, and only incidentally for machines to execute.”
+> — Harold Abelson
 
 </p>
+
+
+
