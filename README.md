@@ -33,7 +33,7 @@ Hi 👋 I'm Vasyl
 
 
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
 
